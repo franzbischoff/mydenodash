@@ -16,7 +16,7 @@ export default function Home() {
           alt="the fresh logo: a sliced lemon dripping with juice"
         />
         <p class="my-6">
-          Welcome to `fresh`. Try updating this message in the
+          Welcome to `fresha`. Try updating this message in the
           ./routes/index.tsx file, and refresh.
         </p>
         <Counter count={count} />
